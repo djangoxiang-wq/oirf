@@ -1,4 +1,6 @@
-# OIRF: Open Industry Research Format (English)
+# OIRF: Open Industry Research Format
+
+> English | [简体中文](./README_CN.md)
 
 OIRF (Open Industry Research Format) is a draft open format standard for AI-native industry research. It is designed to make report narratives, facts, opinions, theories, evidence, sources, assumptions, responsible actors, human-AI collaboration and version history traceable, auditable, collaborative and reusable.
 
